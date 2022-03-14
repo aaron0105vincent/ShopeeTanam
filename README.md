@@ -61,8 +61,7 @@ b. On the second day, the character goes from the right side of the bridge,
 only to the first cell from the right, then goes back to the right side of the
 bridge, and the total number of health the character gets from the second
 day is 100.
-c. Hence, the total health that the character gets from 2 days is 0 + 100 =
-100.
+c. Hence, the total health that the character gets from 2 days is 0 + 100 = 100.
 3. For the third example,
 a. On the first day, the character goes from the left, but only getting the
 health from the first 2 cells, then the character goes back to the left side of
